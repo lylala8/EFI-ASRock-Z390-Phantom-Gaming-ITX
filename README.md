@@ -6,19 +6,17 @@ Geekbench 5 [CPU 测试报告](https://browser.geekbench.com/v5/cpu/12662933) | 
 
 | 名称 | 品牌型号 | 备注 |
 | --- | --- | --- |
-| CPU | 英特尔 i7 9700k |  |
+| CPU | 英特尔 i7 8700 |  |
 | 主板 | 华擎 Z390 Phantom Gaming itx/ac |  |
 | 散热器 | 酷里奥屠龙 240A | 九州风神 船长 240 EX White RGB 过保后水泵头有问题  |
 | 内存 | 海盗船 Vengeance LPX DDR4 3000 16G x 2 |  |
-| 硬盘 | 西数 Black SN750 1T<br />致钛 PC005 Active 1T<br />镁光 CT500MX 500G<br />致钛 PC005 Active 256G<br />东芝 DT01ACA300 3T |  |
-| 显卡 | 迪兰RX 5600xt 6G X 战神 | 新矿卡 |
+| 硬盘 | 三星 970evo 500g<br /> 东芝机械 2T |  |
+| 显卡 | AMD 6900xt | 非矿 |
 | 无线网卡/蓝牙 | 博通 BCM94360CS2 | 需转接卡[替换主板原有模块 M.2 Key E 口](https://icyleaf.com/uploads/2019/03/28/install-boardcom-module-to-motherboard.jpg) |
 | 显示器 | LG 27UL600 4k HDR400 IPS<br>LG LM270WR5-SSB1 27 4k 背板 DIY 显示器<br>NV140QUM-N61 背板 15.6 4k 便携显示器 | (Mini)DisplayPort 接入 |
-| 机箱 | 追风者 215P ITX 侧透 RGB |  |
+| 机箱 | 机甲A4 ITX |  |
 | 麦克风 | fifine K690 | 免驱，后置 USB 都可用 |
-| 电源 | 讯景 XTR550 |  |
-
-更多说明请看[攒了一台 4K 视频剪辑黑苹果](http://icyleaf.com/2019/01/itx-coffee-lake-hackintosh-build-for-4k-video-editing/)。
+| 电源 | sfx600 |  |
 
 ## 兼容情况
 
